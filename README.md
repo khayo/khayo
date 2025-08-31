@@ -10,3 +10,6 @@
 [![](https://visitcount.itsvg.in/api?id=khayo&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<img width="1186" height="234" alt="image" src="https://github.com/user-attachments/assets/42335ed9-57ff-4156-a71e-c48e89f98c28" />
+
